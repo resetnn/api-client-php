@@ -31,7 +31,7 @@ use RetailCrm\Response\ApiResponse;
 class ApiClient
 {
 
-    const VERSION = 'v3';
+    const VERSION = 'v4';
 
     protected $client;
 
