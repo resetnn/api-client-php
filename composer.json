@@ -1,5 +1,5 @@
 {
-    "name": "retailcrm/api-client-php",
+    "name": "resetnn/api-client-php",
     "description": "PHP client for retailCRM API",
     "type": "library",
     "keywords": ["API", "retailCRM", "REST"],
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "retailCRM",
-            "email": "support@retailcrm.pro"
+            "email": "info@resetnn.ru"
         }
     ],
     "require": {
@@ -26,15 +26,10 @@
         "apigen/apigen": "4.1.*"
     },
     "support": {
-        "email": "support@retailcrm.pro"
+        "email": "info@resetnn.ru"
     },
     "autoload": {
         "psr-0": { "RetailCrm\\": "lib/" }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.0.x-dev"
-        }
     },
     "config": {
         "bin-dir": "bin",
